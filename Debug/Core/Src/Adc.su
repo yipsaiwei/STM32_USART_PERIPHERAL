@@ -1,0 +1,3 @@
+Adc.c:10:7:adcSetChannelSamplingTime	24	static
+Adc.c:17:7:adcSetChannelSequence	32	static
+Adc.c:29:7:adcConfiguration	24	static
